@@ -18,6 +18,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Praktikum Flutter
+# Satrio Wisnu Adi Pratama
+# 2341720219
 
 ## Praktikum 1: Membuat Project Flutter Baru
 
